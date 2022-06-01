@@ -8,7 +8,7 @@ Enjoy!
 
 If you like this repo, be sure to ⭐ it.
 
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new resources.
+Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new APIs.
 
 
 ## Table of Contents
