@@ -15,6 +15,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 - [Development](#development)
 - [Weather](#weather)
+- [Books](#books)
 
 ## Development:
 
@@ -30,5 +31,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------- | ----------- |
 | [AccuWeather](https://developer.accuweather.com/apis) | Weather and forecast data |
 | [WeatherAPI](https://developer.accuweather.com/apis) | WeatherAPI.com provides access to weather and geo data via a JSON/XML restful API. |
+
+[⬆ back to top](#table-of-contents)
+
+## Books
+
+| API | Description |
+| ------- | ----------- |
+| [Open Library](https://openlibrary.org/developers/api) | Books, book covers, and related data. |
 
 [⬆ back to top](#table-of-contents)
