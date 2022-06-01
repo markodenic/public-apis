@@ -15,10 +15,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 - [Development](#development)
 
+## Development:
+
 | Website | Description |
 | ------- | ----------- |
 | [GitHub](https://docs.github.com/en/rest) | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API. |
-
-## Development:
 
 [⬆ back to top](#table-of-contents)
