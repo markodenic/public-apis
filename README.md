@@ -15,6 +15,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 - [Development](#development)
 - [Weather](#weather)
+- [Quotes](#quotes)
 - [Books](#books)
 
 ## Development:
@@ -32,11 +33,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [AccuWeather](https://developer.accuweather.com/apis) | Weather and forecast data |
 | [WeatherAPI](https://developer.accuweather.com/apis) | WeatherAPI.com provides access to weather and geo data via a JSON/XML restful API. |
 
-## Content:
+## Quotes:
 
 | API | Description |
 | ------- | ----------- |
-| [Typefit quotes](https://type.fit/api/quotes) | Provides quotes with Author |
+| [Typefit quotes](https://type.fit/api/quotes) | Provides quotes with author |
 
 [⬆ back to top](#table-of-contents)
 
