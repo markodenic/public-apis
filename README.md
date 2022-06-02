@@ -19,6 +19,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Blogs](#blogs)
 - [Music](#music)
 - [Newsletter](#newsletter)
+- [Competitive Programming](#competitive-programming)
 
 ## Development:
 
@@ -79,5 +80,15 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter.                                              |
 | [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
 | [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
+
+[⬆ back to top](#table-of-contents)
+
+## Competitive Programming
+
+| API                                                                 | Description                                                                                   |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Codeforces](https://codeforces.com/apiHelp)                        | With Codeforces API you can get access to some of their data in machine-readable JSON format. |
+| [Hackerearth](https://www.hackerearth.com/docs/wiki/developers/v4/) | The API provides endpoints for compiling and running code in several languages.                |
+|                                                                     |                                                                                               |
 
 [⬆ back to top](#table-of-contents)
