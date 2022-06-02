@@ -46,9 +46,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Books
 
-| API                                                    | Description                           |
-| ------------------------------------------------------ | ------------------------------------- |
-| [Open Library](https://openlibrary.org/developers/api) | Books, book covers, and related data. |
+| API                                                    | Description                                                                               |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Open Library](https://openlibrary.org/developers/api) | Books, book covers, and related data.                                                     |
+| [Bhagavad Gita](https://bhagavadgita.io/api/)          | It allows a web or mobile developer to use the Bhagavad Gita text in their web or mobile. |
 
 [⬆ back to top](#table-of-contents)
 
@@ -71,9 +72,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Newsletter
 
-| API                                                  | Description                                                        |
-| ---------------------------------------------------- | ------------------------------------------------------------------ |
-| [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter. |
-| [Revue](https://www.getrevue.co/api)                 | It  allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools                                                                   |
+| API                                                  | Description                                                                                          |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter.                                   |
+| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools |
 
 [⬆ back to top](#table-of-contents)
