@@ -38,9 +38,11 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Quotes:
 
-| API                                           | Description                 |
-| --------------------------------------------- | --------------------------- |
-| [Typefit quotes](https://type.fit/api/quotes) | Provides quotes with author |
+| API                                                                 | Description                                    |
+| ------------------------------------------------------------------- | ---------------------------------------------- |
+| [Typefit quotes](https://type.fit/api/quotes)                       | Provides quotes with author                    |
+| [Quotable](https://github.com/lukePeavey/quotable)                  | Quotable is a free, open source quotations API |
+| [Programming Quotes](https://programming-quotes-api.herokuapp.com/) | It provides Programming Quotes                 |
 
 [⬆ back to top](#table-of-contents)
 
@@ -72,9 +74,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 ## Newsletter
 
-| API                                                  | Description                                                                                          |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter.                                   |
-| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools |
+| API                                                  | Description                                                                                                     |
+| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter.                                              |
+| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
+| [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
