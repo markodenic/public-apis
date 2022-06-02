@@ -17,6 +17,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Weather](#weather)
 - [Quotes](#quotes)
 - [Books](#books)
+- [Blogs](#blogs)
 
 ## Development:
 
@@ -47,5 +48,14 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | API | Description |
 | ------- | ----------- |
 | [Open Library](https://openlibrary.org/developers/api) | Books, book covers, and related data. |
+
+[⬆ back to top](#table-of-contents)
+
+## Blogs
+
+| API | Description |
+| ------- | ----------- |
+| [Medium](https://github.com/Medium/medium-api-docs) | Medium’s Publishing API makes it easy for you to create your content on Medium from anywhere you write. |
+| [Dev.to](https://developers.forem.com/api) | Use this API to fetch and publish your [Dev.to](https://dev.to) articles  |
 
 [⬆ back to top](#table-of-contents)
