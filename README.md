@@ -19,6 +19,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Books](#books)
 - [Blogs](#blogs)
 - [Music](#music)
+- [Newsletter](#newsletter)
 
 ## Development:
 
@@ -66,5 +67,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | API | Description |
 | ------- | ----------- |
 | [Spotify](https://developer.spotify.com/documentation/) | Based on simple REST principles, the Spotify Web API endpoints return JSON metadata about music artists, albums, and tracks, directly from the Spotify. |
+
+[⬆ back to top](#table-of-contents)
+
+## Newsletter
+
+| [Buttondown](https://api.buttondown.email/v1/schema) | This API lets you manage your Subscribers, emails, and Newsletter.                                              |
+| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
+| [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
