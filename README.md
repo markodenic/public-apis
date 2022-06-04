@@ -18,6 +18,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Quotes](#quotes)
 - [Books](#books)
 - [Blogs](#blogs)
+- [Music](#music)
 
 ## Development:
 
@@ -57,5 +58,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------- | ----------- |
 | [Medium](https://github.com/Medium/medium-api-docs) | Medium’s Publishing API makes it easy for you to create your content on Medium from anywhere you write. |
 | [Dev.to](https://developers.forem.com/api) | Use this API to fetch and publish your [Dev.to](https://dev.to) articles  |
+
+[⬆ back to top](#table-of-contents)
+
+## Music
+
+| API | Description |
+| ------- | ----------- |
+| [Spotify](https://developer.spotify.com/documentation/) | Based on simple REST principles, the Spotify Web API endpoints return JSON metadata about music artists, albums, and tracks, directly from the Spotify. |
 
 [⬆ back to top](#table-of-contents)
