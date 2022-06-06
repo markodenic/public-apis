@@ -24,6 +24,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | API | Description |
 | ------- | ----------- |
 | [GitHub](https://docs.github.com/en/rest) | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API. |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping. |
 
 [⬆ back to top](#table-of-contents)
 
