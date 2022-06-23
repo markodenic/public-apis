@@ -18,6 +18,8 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Quotes](#quotes)
 - [Books](#books)
 - [Blogs](#blogs)
+- [Music](#music)
+- [Newsletter](#newsletter)
 
 ## Development:
 
@@ -58,5 +60,21 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------- | ----------- |
 | [Medium](https://github.com/Medium/medium-api-docs) | Medium’s Publishing API makes it easy for you to create your content on Medium from anywhere you write. |
 | [Dev.to](https://developers.forem.com/api) | Use this API to fetch and publish your [Dev.to](https://dev.to) articles  |
+
+[⬆ back to top](#table-of-contents)
+
+## Music
+
+| API | Description |
+| ------- | ----------- |
+| [Spotify](https://developer.spotify.com/documentation/web-api/) | Based on simple REST principles, the Spotify Web API endpoints return JSON metadata about music artists, albums, and tracks, directly from the Spotify. |
+
+[⬆ back to top](#table-of-contents)
+
+## Newsletter
+| API | Description |
+| ------- | ----------- |
+| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
+| [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
