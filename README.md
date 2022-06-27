@@ -85,4 +85,4 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | ------- | ----------- |
 
 
-[⬆ back to top](#web3)
+[⬆ back to top](#table-of-contents)
