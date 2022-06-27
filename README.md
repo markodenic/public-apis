@@ -20,6 +20,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Blogs](#blogs)
 - [Music](#music)
 - [Newsletter](#newsletter)
+- [Web3](#web3)
 
 ## Development:
 
@@ -78,3 +79,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
+
+## Web3
+| API | Description |
+| ------- | ----------- |
+
+
+[⬆ back to top](#web3)
