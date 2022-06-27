@@ -83,6 +83,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Web3
 | API | Description |
 | ------- | ----------- |
-
+| [Coingecko](https://www.coingecko.com/en/api/documentation) | It allows you to fetch crypto data such as live prices, trading volume, contract address data and more listed on Coingecko.
 
 [⬆ back to top](#table-of-contents)
