@@ -20,6 +20,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Blogs](#blogs)
 - [Music](#music)
 - [Newsletter](#newsletter)
+- [Currency] (#currency)
 
 ## Development:
 
@@ -78,3 +79,13 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
+
+## Currency
+| API | Description |
+| ------- | ----------- |
+| [exchangerate.host](https://exchangerate.host/#/)| It allows you to fetch current and historical foreign exchange rates, crypto exchange rates & EU VAT Rates directly from [API](https://api.exchangerate.host) for free |
+
+
+[⬆ back to top](#table-of-contents)
+
+
