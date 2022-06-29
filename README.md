@@ -20,6 +20,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Blogs](#blogs)
 - [Music](#music)
 - [Newsletter](#newsletter)
+- [Currency] (#currency)
 
 ## Development:
 
