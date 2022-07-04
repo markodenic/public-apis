@@ -85,3 +85,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [goQR](https://goqr.me/api/i)                 | You can create colored QR codes with our API. Just choose a background and / or a foreground color and take care of good contrast between the light and dark modules / pixels.            |
 
 [⬆ back to top](#table-of-contents)
+
+## Webmaster
+| API | Description |
+| ------- | ----------- |
+| [IndexNow](https://www.bing.com/indexnow)                 | Simple protocol that websites can use to alert Bing anytime any URL's contents are modified or added permits immediate crawling and discovery of the URL.            |
+
+[⬆ back to top](#table-of-contents)
