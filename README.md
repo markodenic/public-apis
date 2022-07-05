@@ -92,3 +92,10 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 | [IndexNow](https://www.bing.com/indexnow)                 | Simple protocol that websites can use to alert Bing anytime any URL's contents are modified or added permits immediate crawling and discovery of the URL.            |
 
 [⬆ back to top](#table-of-contents)
+
+## WebBrowser
+| API | Description |
+| ------- | ----------- |
+| [Webvium](https://mrepol742.github.io/webvium/api/)                 | Webvium browser api provides tools that can be use easily.            |
+
+[⬆ back to top](#table-of-contents)
