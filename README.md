@@ -10,6 +10,7 @@ If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new APIs.
 
+Initially created by [Marko](https://markodenic.com).
 
 ## Table of Contents
 
