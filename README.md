@@ -76,7 +76,6 @@ Initially created by [Marko](https://markodenic.com).
 ## Newsletter
 | API | Description |
 | ------- | ----------- |
-| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
 | [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
