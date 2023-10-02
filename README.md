@@ -10,6 +10,7 @@ If you like this repo, be sure to ⭐ it.
 
 Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new APIs.
 
+Initially created by [Marko](https://markodenic.com).
 
 ## Table of Contents
 
@@ -21,6 +22,7 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 - [Music](#music)
 - [Newsletter](#newsletter)
 - [Currency] (#currency)
+- [Recipe](#recipe)
 
 ## Development:
 
@@ -75,7 +77,6 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 ## Newsletter
 | API | Description |
 | ------- | ----------- |
-| [Revue](https://www.getrevue.co/api)                 | It allows you to integrate [Revue](https://www.getrevue.co/) with your own website or external tools            |
 | [Mailchimp](https://mailchimp.com/developer/)        | Mailchimp’s developer tools provide everything you need to integrate your data with intelligent marketing tools |
 
 [⬆ back to top](#table-of-contents)
@@ -88,4 +89,9 @@ Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new
 
 [⬆ back to top](#table-of-contents)
 
+## Recipe
+| API | Description |
+| ------- | ----------- |
+| [Edamam](https://developer.edamam.com/edamam-recipe-api)                 | It allows you integrate a recipe search on your website with access to over 1M+ recipes and nutritional informations.            |
 
+[⬆ back to top](#table-of-contents)
