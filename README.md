@@ -16,6 +16,7 @@ Initially created by [Marko](https://markodenic.com).
 
 - [Development](#development)
 - [Weather](#weather)
+- [Location](#location)
 - [Quotes](#quotes)
 - [Books](#books)
 - [Blogs](#blogs)
@@ -41,6 +42,12 @@ Initially created by [Marko](https://markodenic.com).
 | [AccuWeather](https://developer.accuweather.com/apis) | Weather and forecast data |
 | [WeatherAPI](https://www.weatherapi.com/) | WeatherAPI.com provides access to weather and geo data via a JSON/XML restful API. |
 | [OpenWeatherMap](https://openweathermap.org/api)| Get weather data for any location on the globe immediately.|
+
+## Location:
+
+| API | Description |
+| ------- | ----------- |
+| [RestCountries](https://restcountries.com/) | Get information about countries |
 
 ## Quotes:
 
