@@ -108,8 +108,8 @@ Initially created by [Marko](https://markodenic.com).
 
 ## Movies and TV Shows
 
-| API                                    | Description                                                                                                                               |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [MovieDB](https://www.themoviedb.org/) | Movie DB is a fully open-source android application for exploring and organizing your personal collection of films and television series. |
+| API                                                              | Description                                                                                                                               |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [MovieDB](https://developer.themoviedb.org/docs/getting-started) | Movie DB is a fully open-source android application for exploring and organizing your personal collection of films and television series. |
 
 [⬆ back to top](#table-of-contents)
