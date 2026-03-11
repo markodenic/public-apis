@@ -22,6 +22,7 @@ Initially created by [Marko](https://markodenic.com).
 - [Music](#music)
 - [Newsletter](#newsletter)
 - [Recipe](#recipe)
+- [Social Media](#social-media)
 
 ## Development:
 
@@ -89,6 +90,14 @@ Initially created by [Marko](https://markodenic.com).
 | API                                                      | Description                                                                                                           |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [Edamam](https://developer.edamam.com/edamam-recipe-api) | It allows you integrate a recipe search on your website with access to over 1M+ recipes and nutritional informations. |
+
+[⬆ back to top](#table-of-contents)
+
+## Social Media
+
+| API                                    | Description                                                                                                                                              |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Xquik](https://docs.xquik.com)       | X (Twitter) automation API — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions & webhooks |
 
 [⬆ back to top](#table-of-contents)
 
