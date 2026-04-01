@@ -30,6 +30,7 @@ Initially created by [Marko](https://markodenic.com).
 | [GitHub](https://docs.github.com/en/rest)                | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API.             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping.                                                                      |
 | [REQRES](https://reqres.in)                              | Free fake data to simulate real application scenarios that supports real response code. GET, POST, PUT & DELETE |
+| [ToolPipe](https://assessing-scoop-authorities-sheet.trycloudflare.com/docs) | Free developer tools suite with 58+ browser-based utilities and 70+ REST API endpoints. No auth required.      |
 
 [⬆ back to top](#table-of-contents)
 
