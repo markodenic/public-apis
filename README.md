@@ -30,6 +30,7 @@ Initially created by [Marko](https://markodenic.com).
 | [GitHub](https://docs.github.com/en/rest)                | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API.             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping.                                                                      |
 | [REQRES](https://reqres.in)                              | Free fake data to simulate real application scenarios that supports real response code. GET, POST, PUT & DELETE |
+| [Descripio Amazon Reviews](https://docs.descripio.com) | Amazon product reviews for 12 marketplaces. Ideal for repricing tools, brand monitoring, and e-commerce research. |
 
 [⬆ back to top](#table-of-contents)
 
