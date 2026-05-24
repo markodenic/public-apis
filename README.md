@@ -45,6 +45,7 @@ Initially created by [Marko](https://markodenic.com).
 
 | API                                         | Description                     |
 |---------------------------------------------|---------------------------------|
+| [Phantom Tide Restricted-Airspace Feed](https://github.com/tg12/phantomtide?tab=readme-ov-file#public-restricted-airspace-feed) | Replay-derived restricted-airspace crossing feed for aircraft observed in public airspace data. |
 | [RestCountries](https://restcountries.com/) | Get information about countries |
 
 [⬆ back to top](#table-of-contents)
