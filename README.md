@@ -27,6 +27,7 @@ Initially created by [Marko](https://markodenic.com).
 
 | API                                                      | Description                                                                                                     |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [DomScan](https://domscan.net/docs)                      | Domain, DNS, WHOIS/RDAP, TLS, email, security, valuation, and brand-intelligence APIs with a free tier.         |
 | [GitHub](https://docs.github.com/en/rest)                | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API.             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping.                                                                      |
 | [REQRES](https://reqres.in)                              | Free fake data to simulate real application scenarios that supports real response code. GET, POST, PUT & DELETE |
