@@ -30,6 +30,7 @@ Initially created by [Marko](https://markodenic.com).
 | [GitHub](https://docs.github.com/en/rest)                | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API.             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping.                                                                      |
 | [REQRES](https://reqres.in)                              | Free fake data to simulate real application scenarios that supports real response code. GET, POST, PUT & DELETE |
+| [LinkPeek](https://147.15.103.217.sslip.io:5000)        | Free URL link preview and QR code generator API. 85 endpoints for metadata extraction, OpenGraph parsing, screenshots, favicon, and QR codes in SVG/PNG. No auth required. |
 
 [⬆ back to top](#table-of-contents)
 
