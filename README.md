@@ -22,6 +22,7 @@ Initially created by [Marko](https://markodenic.com).
 - [Music](#music)
 - [Newsletter](#newsletter)
 - [Recipe](#recipe)
+- [Vehicles](#vehicles)
 
 ## Development:
 
@@ -97,5 +98,13 @@ Initially created by [Marko](https://markodenic.com).
 | API                                                              | Description                                                                                                                               |
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | [MovieDB](https://developer.themoviedb.org/docs/getting-started) | Movie DB is a fully open-source android application for exploring and organizing your personal collection of films and television series. |
+
+[⬆ back to top](#table-of-contents)
+
+## Vehicles
+
+| API                                    | Description                                                                                 |
+|----------------------------------------|---------------------------------------------------------------------------------------------|
+| [Motomarks](https://motomarks.io/docs) | JSON and image CDN for published car manufacturer marks, with a free daily allowance |
 
 [⬆ back to top](#table-of-contents)
