@@ -27,6 +27,7 @@ Initially created by [Marko](https://markodenic.com).
 
 | API                                                      | Description                                                                                                     |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| [CurlShot](https://curlshot.com/docs)                    | Screenshot API that turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or video. Free tier.              |
 | [GitHub](https://docs.github.com/en/rest)                | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API.             |
 | [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Free fake API for testing and prototyping.                                                                      |
 | [REQRES](https://reqres.in)                              | Free fake data to simulate real application scenarios that supports real response code. GET, POST, PUT & DELETE |
