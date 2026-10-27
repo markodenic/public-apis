@@ -17,6 +17,7 @@ Initially created by [Marko](https://markodenic.com).
 - [Development](#development)
 - [Weather](#weather)
 - [Location](#location)
+- [Travel and inspiration](#travel-and-inspiration)
 - [Books](#books)
 - [Blogs](#blogs)
 - [Music](#music)
@@ -46,6 +47,14 @@ Initially created by [Marko](https://markodenic.com).
 | API                                         | Description                     |
 |---------------------------------------------|---------------------------------|
 | [RestCountries](https://restcountries.com/) | Get information about countries |
+
+[⬆ back to top](#table-of-contents)
+
+## Travel and inspiration
+
+| API | Description |
+|-----|-------------|
+| [Bucketlist.nl Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Daily bucket-list experience ideas in five languages, with source URLs and no API key. |
 
 [⬆ back to top](#table-of-contents)
 
